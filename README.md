@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atyagiabhi210&label=Profile%20views&color=0e75b6&style=flat" alt="atyagiabhi210" /> </p>
 
-- 🔭 I’m currently working on [Simplweet]([https://bit.ly/467SatJ](https://github.com/atyagiabhi210/Simplweet-A-FullStack-Flutter-App-FrontEnd))
+- 🔭 I’m currently working on [Simplweet] (https://github.com/atyagiabhi210/Simplweet-A-FullStack-Flutter-App-FrontEnd)
 
 - 🌱 I’m currently learning **Flutter**
 
