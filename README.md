@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atyagiabhi210&label=Profile%20views&color=0e75b6&style=flat" alt="atyagiabhi210" /> </p>
 
-- 🔭 I’m currently working on [75 Hard Challenge App](https://bit.ly/467SatJ)
+- 🔭 I’m currently working on [Simplweet]([https://bit.ly/467SatJ](https://github.com/atyagiabhi210/Simplweet-A-FullStack-Flutter-App-FrontEnd))
 
 - 🌱 I’m currently learning **Flutter**
 
@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@atyagiabhi210](https://medium.com/@atyagiabhi210)
 
-- 💬 Ask me about **Android developement!**
+- 💬 Ask me about **Mobile Development!**
 
 - 📫 How to reach me **atyagiabhi210@gmail.com**
 
