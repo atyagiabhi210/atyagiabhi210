@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atyagiabhi210&label=Profile%20views&color=0e75b6&style=flat" alt="atyagiabhi210" /> </p>
 
-- 🔭 I’m currently working on [Simplweet](https://github.com/atyagiabhi210/Simplweet-A-FullStack-Flutter-App-FrontEnd)
+- 🔭 I’m currently working on [Noroid](https://github.com/atyagiabhi210/noroid)
 
 - 🌱 I’m currently learning **Flutter**
-
-- 👯 Previous Projets [Budget Tracker App](https://github.com/atyagiabhi210/expense_tracker)
 
 - 👨‍💻 All of my projects are available at [https://bit.ly/3LlHO1k](https://bit.ly/3LlHO1k)
 
